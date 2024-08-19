@@ -108,3 +108,4 @@ tipCalculator(430);
 console.log(tipCalculator(275));
 console.log(tipCalculator(40));
 console.log(tipCalculator(430));
+
